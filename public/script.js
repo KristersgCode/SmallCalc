@@ -1,10 +1,3 @@
-//function multiply() {
-// let num = document.querySelector("[data-num]").value;
-//document.querySelector("[data-value]").value = num * num;
-//document.getElementById("textfield1").value = "";
-//document.getElementById("textfield2").value = "";
-//}
-
 function multiply() {
   let num1 = parseFloat(document.getElementById("textfield1").value);
   let num2 = parseFloat(document.getElementById("textfield2").value);
